@@ -25,6 +25,8 @@
    <string>inprivate</string>
    <key>com.microsoft.intune.mam.managedbrowser.disableExtensionFramework</key>
    <true/>
+   <key> com.microsoft.intune.useEdge</key>
+   <true/>
 </dict>
 
 
