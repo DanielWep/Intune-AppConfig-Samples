@@ -1,0 +1,21 @@
+<dict>
+   <key>StringKeyValue</key>
+   <string>StringValue</string>
+   <key>TrueBoolenKeyValue</key>
+   <true/>
+   <key>FalseBoolenKeyValue</key>
+   <false/>
+   <key>IntKeyValue</key>
+   <integer>3</integer>
+   <key>RealKeyValue</key>
+   <string>3.14159265359</string>
+   <key>KeyArray</key>
+	<array>
+		<string>A</string>
+		<string>B</string>
+		<string>C</string>
+		<string>D</string>
+   </array>
+</dict>
+
+
