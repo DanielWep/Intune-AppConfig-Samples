@@ -1,0 +1,30 @@
+<dict>
+   <key>IntuneMAMUPN</key>
+   <string>{{UserPrincipalName}}</string>
+   <key>com.microsoft.intune.mam.managedbrowser.NewTabPage.BrandLogo</key>
+   <true/>
+   <key>com.microsoft.intune.mam.managedbrowser.NewTabPage.BrandColor</key>
+   <true/>
+   <key>com.microsoft.intune.mam.managedbrowser.homepage</key>
+   <string>https://www.microsoft.com</string>
+   <key>com.microsoft.intune.mam.managedbrowser.bookmarks</key>
+   <string>MS|https://www.microsoft.com</string>
+   <key>com.microsoft.intune.mam.managedbrowser.BlockListURLs</key>
+   <string>https://*.contoso.com/|https://*.bing.com/</string>
+   <key>com.microsoft.intune.mam.managedbrowser.openInPrivateIfBlocked</key>
+   <true/>
+   <key>com.microsoft.intune.mam.managedbrowser.AllowTransitionOnBlock</key>
+   <false/>
+   <key>com.microsoft.intune.mam.managedbrowser.defaultHTTPS</key>
+   <true/>
+   <key>com.microsoft.intune.mam.managedbrowser.disableShareUsageData</key>
+   <true/>
+   <key>com.microsoft.intune.mam.managedbrowser.disableShareBrowsingHistory</key>
+   <true/>
+   <key>com.microsoft.intune.mam.managedbrowser.disableFeatures</key>
+   <string>inprivate</string>
+   <key>com.microsoft.intune.mam.managedbrowser.disableExtensionFramework</key>
+   <true/>
+</dict>
+
+
