@@ -12,11 +12,11 @@
         },
         {
             "key": "NetworkPredictionOptions",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "IncognitoModeAvailability",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "SavingBrowserHistoryDisabled",
@@ -32,7 +32,7 @@
         },
         {
             "key": "ForceYouTubeRestrict",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "SafeBrowsingEnabled",
@@ -52,27 +52,27 @@
         },
         {
             "key": "ProxyMode",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "ProxyServer",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "ProxyPacUrl",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "ProxyBypassList",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "ProxySettings",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "AuthSchemes",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DisableAuthNegotiateCnameLookup",
@@ -80,15 +80,15 @@
         },
         {
             "key": "AuthServerWhitelist",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "AuthNegotiateDelegateWhitelist",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "AuthAndroidNegotiateAccountType",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "NtlmV2Enabled",
@@ -100,115 +100,115 @@
         },
         {
             "key": "DefaultSearchProviderName",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderKeyword",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderSearchURL",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderSuggestURL",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderIconURL",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderEncodings",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderAlternateURLs",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderImageURL",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderNewTabURL",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderSearchURLPostParams",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderSuggestURLPostParams",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultSearchProviderImageURLPostParams",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultCookiesSetting",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultJavaScriptSetting",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultPopupsSetting",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultGeolocationSetting",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultWebBluetoothGuardSetting",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DefaultWebUsbGuardSetting",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "WebUsbAllowDevicesForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "WebUsbAskForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "WebUsbBlockedForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "CookiesAllowedForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "CookiesBlockedForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "CookiesSessionOnlyForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "JavaScriptAllowedForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "JavaScriptBlockedForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "PopupsAllowedForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "PopupsBlockedForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "TranslateEnabled",
@@ -220,11 +220,11 @@
         },
         {
             "key": "URLBlacklist",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "URLWhitelist",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DisableSafeBrowsingProceedAnyway",
@@ -232,7 +232,7 @@
         },
         {
             "key": "ManagedBookmarks",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "DataCompressionProxyEnabled",
@@ -244,23 +244,23 @@
         },
         {
             "key": "BrowserSignin",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "SSLVersionMin",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "CertificateTransparencyEnforcementDisabledForUrls",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "CertificateTransparencyEnforcementDisabledForCas",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "CertificateTransparencyEnforcementDisabledForLegacyCas",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "ContextualSearchEnabled",
@@ -272,7 +272,7 @@
         },
         {
             "key": "AllowedDomainsForApps",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "EnableMediaRouter",
@@ -284,11 +284,11 @@
         },
         {
             "key": "WebRtcUdpPortRange",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "IsolateOriginsAndroid",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "SitePerProcessAndroid",
@@ -296,11 +296,11 @@
         },
         {
             "key": "RestrictAccountsToPatterns",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "OverrideSecurityRestrictionsOnInsecureOrigin",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         },
         {
             "key": "UrlKeyedAnonymizedDataCollectionEnabled",
