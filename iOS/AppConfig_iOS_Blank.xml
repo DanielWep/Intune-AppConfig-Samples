@@ -1,10 +1,8 @@
 <dict>
    <key>StringKeyValue</key>
    <string>StringValue</string>
-   <key>TrueBoolenKeyValue</key>
-   <true/>
-   <key>FalseBoolenKeyValue</key>
-   <false/>
+   <key>BoolenKeyValue</key>
+   <true/>|<false/>
    <key>IntKeyValue</key>
    <integer>3</integer>
    <key>RealKeyValue</key>

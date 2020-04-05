@@ -1,0 +1,322 @@
+{
+    "kind": "androidenterprise#managedConfiguration",
+    "productId": "app:com.microsoft.emmx",
+    "managedProperty": [
+        {
+            "key": "AlternateErrorPagesEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "SearchSuggestEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "NetworkPredictionOptions",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "IncognitoModeAvailability",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "SavingBrowserHistoryDisabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "PrintingEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "ForceGoogleSafeSearch",
+            "valueBool": true|false
+        },
+        {
+            "key": "ForceYouTubeRestrict",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "SafeBrowsingEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "PasswordManagerEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "AutofillAddressEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "AutofillCreditCardEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "ProxyMode",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "ProxyServer",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "ProxyPacUrl",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "ProxyBypassList",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "ProxySettings",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "AuthSchemes",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DisableAuthNegotiateCnameLookup",
+            "valueBool": true|false
+        },
+        {
+            "key": "AuthServerWhitelist",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "AuthNegotiateDelegateWhitelist",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "AuthAndroidNegotiateAccountType",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "NtlmV2Enabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "DefaultSearchProviderEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "DefaultSearchProviderName",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderKeyword",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderSearchURL",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderSuggestURL",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderIconURL",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderEncodings",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderAlternateURLs",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderImageURL",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderNewTabURL",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderSearchURLPostParams",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderSuggestURLPostParams",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultSearchProviderImageURLPostParams",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultCookiesSetting",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultJavaScriptSetting",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultPopupsSetting",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultGeolocationSetting",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultWebBluetoothGuardSetting",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DefaultWebUsbGuardSetting",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "WebUsbAllowDevicesForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "WebUsbAskForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "WebUsbBlockedForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "CookiesAllowedForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "CookiesBlockedForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "CookiesSessionOnlyForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "JavaScriptAllowedForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "JavaScriptBlockedForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "PopupsAllowedForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "PopupsBlockedForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "TranslateEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "EditBookmarksEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "URLBlacklist",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "URLWhitelist",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DisableSafeBrowsingProceedAnyway",
+            "valueBool": true|false
+        },
+        {
+            "key": "ManagedBookmarks",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "DataCompressionProxyEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "EnableDeprecatedWebPlatformFeatures",
+            "valueStringArray": []
+        },
+        {
+            "key": "BrowserSignin",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "SSLVersionMin",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "CertificateTransparencyEnforcementDisabledForUrls",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "CertificateTransparencyEnforcementDisabledForCas",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "CertificateTransparencyEnforcementDisabledForLegacyCas",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "ContextualSearchEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "SSLErrorOverrideAllowed",
+            "valueBool": true|false
+        },
+        {
+            "key": "AllowedDomainsForApps",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "EnableMediaRouter",
+            "valueBool": true|false
+        },
+        {
+            "key": "NTPContentSuggestionsEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "WebRtcUdpPortRange",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "IsolateOriginsAndroid",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "SitePerProcessAndroid",
+            "valueBool": true|false
+        },
+        {
+            "key": "RestrictAccountsToPatterns",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "OverrideSecurityRestrictionsOnInsecureOrigin",
+            "valueString": STRING_VALUE
+        },
+        {
+            "key": "UrlKeyedAnonymizedDataCollectionEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "EnterpriseHardwarePlatformAPIEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "AllowPopupsDuringPageUnload",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.intune.mam.AllowedAccountUPNs",
+            "valueString": "{{userprincipalname}}"
+        }
+    ]
+}

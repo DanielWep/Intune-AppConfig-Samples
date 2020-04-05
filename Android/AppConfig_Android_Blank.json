@@ -1,0 +1,14 @@
+{
+    "kind": "androidenterprise#managedConfiguration",
+    "productId": "app:com.microsoft.XYZ",
+    "managedProperty": [
+        {
+            "key": "KEYNAME",
+            "valueBool": true|false
+        },
+        {
+            "key": "KEYNAME",
+            "valueString": STRING_VALUE
+        }
+	]
+}
