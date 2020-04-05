@@ -1,0 +1,94 @@
+{
+    "kind": "androidenterprise#managedConfiguration",
+    "productId": "app:com.microsoft.office.outlook",
+    "managedProperty": [
+        {
+            "key": "com.microsoft.outlook.EmailProfile.EmailAddress",
+            "valueString": "{{mail}}"
+        },
+        {
+            "key": "com.microsoft.outlook.EmailProfile.EmailAccountName",
+            "valueString": "{{username}}"
+        },
+        {
+            "key": "com.microsoft.outlook.EmailProfile.ServerHostName",
+            "valueString": "outlook.office365.com"
+        },
+        {
+            "key": "com.microsoft.outlook.EmailProfile.AccountDomain",
+            "valueString": "company.com"
+        },
+        {
+            "key": "com.microsoft.outlook.EmailProfile.EmailUPN",
+            "valueString": "{{UserPrincipalName}}"
+        },
+        {
+            "key": "com.microsoft.outlook.EmailProfile.ServerAuthentication",
+            "valueString": "Username and Password"
+        },
+        {
+            "key": "com.microsoft.intune.mam.AllowedAccountUPNs",
+            "valueString": "{{UserPrincipalName}}"
+        },
+        {
+            "key": "com.microsoft.outlook.EmailProfile.AccountType",
+            "valueString": "ModernAuth|BasicAuth"
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.BlockExternalImagesEnabled",
+             "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.BlockExternalImagesEnabled.UserChangeAllowed",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.ExternalRecipientsToolTipEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.FocusedInbox",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.officeFeedEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Contacts.LocalSyncEnabled",
+             "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Contacts.LocalSyncEnabled.UserChangeAllowed",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.DefaultSignatureEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.SuggestedRepliesEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.SuggestedRepliesEnabled.UserChangeAllowed",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.SMIMEEnabled",
+             "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.SMIMEEnabled.UserChangeAllowed",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Mail.OrganizeByThreadEnabled",
+            "valueBool": true|false
+        },
+        {
+            "key": "com.microsoft.outlook.Calendar.Notifications.IntuneMAMOnly",
+            "valueInteger": 0
+        }
+    ]
+}

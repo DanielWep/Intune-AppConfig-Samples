@@ -8,7 +8,7 @@
         },
         {
             "key": "KEYNAME",
-            "valueString": STRING_VALUE
+            "valueString": "STRING_VALUE"
         }
 	]
 }
