@@ -1,4 +1,4 @@
-# Azure Intune AppConfig XML Templates
+# Azure Intune AppConfig Templates
 
 ## Getting Started
 
