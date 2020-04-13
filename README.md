@@ -4,6 +4,12 @@
 
 tba
 
+
+## Link 
+
+Edge
+Android Chrome Enterprise policy List: https://cloud.google.com/docs/chrome-enterprise/policies/
+
 # 
 
 Cheers,
