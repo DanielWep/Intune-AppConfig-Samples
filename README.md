@@ -20,6 +20,8 @@ Note: The boolean key settings must be false or true, only one value is required
 - iOS: <true/>|<false/>
 ```
 
+Your custom JSON or XML data file must be imported via Azure Intune App Configuration Policies for the selected app.
+
 [More information about App Configuration Policies](https://docs.microsoft.com/en-us/mem/intune/apps/app-configuration-policies-overview)
 
 # Azure Intune AppConfig Known Issues
