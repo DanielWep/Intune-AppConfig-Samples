@@ -20,16 +20,18 @@ Note: The boolean key settings must be false or true, only one value is required
 - iOS: <true/>|<false/>
 ```
 
+[More information about App Configuration Policies](https://docs.microsoft.com/en-us/mem/intune/apps/app-configuration-policies-overview)
 
 # Azure Intune AppConfig Known Issues
 
 The setting for Edge homepage and managed bookmarks are not working for managed devices & apps, maybe there is a syntax error or application issue. 
 
 
-## Link 
+## References 
 
-Edge
-Android Chrome Enterprise policy List: https://cloud.google.com/docs/chrome-enterprise/policies/
+- [How to configure Microsoft Edge](https://docs.microsoft.com/en-us/mem/intune/apps/manage-microsoft-edge)
+- [How to configure Microsoft Outlook](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-configuration-with-microsoft-intune)
+- [Android Chrome Enterprise policy List](https://cloud.google.com/docs/chrome-enterprise/policies/)
 
 # 
 
