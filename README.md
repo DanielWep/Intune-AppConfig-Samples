@@ -38,4 +38,4 @@ The setting for Edge homepage and managed bookmarks are not working for managed 
 # 
 
 Cheers,
-[Daniel Weppeler](https://twitter.com/_danielwep/)
+[Daniel Weppeler](https://danielweppeler.de)
